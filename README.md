@@ -13,3 +13,4 @@
 5. Canonical (Link): the main URL
 6. Source (link): Link to data source
 
+Example: https://docs.google.com/spreadsheets/d/1Hw4ULimeChPvc6EC03238rRAxabNMQfVe8bs13ab66k/pubhtml
