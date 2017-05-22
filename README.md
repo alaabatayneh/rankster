@@ -1,11 +1,23 @@
-# Rankster
+## Rankster
 
-#### Steps
-1. Create a Google Sheet that has 2 sheets
-2. In the first sheet, create 2 columns, the first one is called 'country', and the second is called 'score' and fill your values
-3. In the second sheet, create 6 colums and name the first cell, Title, Description, Items	Source, Twitter, Canonical then fill the values below the table header.
+Rankster is merely a gamified list that users should sort according to their values.
 
-#### The fields
+##### Install
+1. Create a Google Sheet that has 2 sub sheets
+2. **In the first sheet**, create 2 columns, call the first one 'country' and the second 'score', and then list all your values.
+3. **In the second sheet**, create 6 colums and name them in this order:
+- Title
+- Description
+- Items	
+- Source
+- Twitter
+- Canonical 
+- HighestOnTop
+- Conclusion
+
+Then fill the values
+
+##### The fields
 1. Title (Text): The main title
 2. Description (Text): the description 
 3. Items (Number): the number of items to appear in the list
