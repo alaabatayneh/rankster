@@ -17,6 +17,9 @@ Rankster is merely a gamified list that users should sort according to their val
 
 Then fill the values
 
+4. Then share the Google Sheet with the public , copy its URL, and paste it in js/scripts inside init() function.
+
+
 ##### The fields
 1. Title (Text): The main title
 2. Description (Text): the description 
