@@ -12,5 +12,7 @@
 4. Twitter (Text): the tweet text
 5. Canonical (Link): the main URL
 6. Source (link): Link to data source
+7. Highest on top (True or False): The highest value either on top or bottom, your choice.
+8. Conclusion (text): The text that will appear next to the item when the sorting is completed successfully 
 
-Example: https://docs.google.com/spreadsheets/d/1Hw4ULimeChPvc6EC03238rRAxabNMQfVe8bs13ab66k/pubhtml
+Example: https://docs.google.com/spreadsheets/d/12CSYHWSxXwUvfpoUaKjQNkcx88WcCwqovs_-Cg45Vrw/edit#gid=1305765886
