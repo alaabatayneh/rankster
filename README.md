@@ -1,7 +1,7 @@
 ## Rankster
 
 Rankster is merely a gamified list that users should sort according to their values.
-![alt text](https://ibb.co/kVpzLv)
+![alt text](https://preview.ibb.co/fUtR0v/Screen_Shot_2017_05_22_at_2_18_24_PM.png)
 
 
 
