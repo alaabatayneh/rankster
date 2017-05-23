@@ -5,7 +5,7 @@ Rankster is merely a gamified list that users should sort according to their val
 
 
 
-##### Install
+#### Install
 1. Create a Google Sheet that has 2 sub sheets
 2. **In the first sheet**, create 2 columns, call the first one 'country' and the second 'score', and then list all your values.
 3. **In the second sheet**, create 6 colums and name them in this order:
@@ -23,7 +23,7 @@ Then fill the values
 4. Then share the Google Sheet with the public , copy its URL, and paste it in js/scripts inside init() function.
 
 
-##### The fields
+#### The fields
 1. Title (Text): The main title
 2. Description (Text): the description 
 3. Items (Number): the number of items to appear in the list
