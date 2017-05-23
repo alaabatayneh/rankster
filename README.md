@@ -1,6 +1,9 @@
 ## Rankster
 
 Rankster is merely a gamified list that users should sort according to their values.
+![alt text](https://ibb.co/kVpzLv)
+
+
 
 ##### Install
 1. Create a Google Sheet that has 2 sub sheets
